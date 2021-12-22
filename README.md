@@ -1,0 +1,1 @@
+Simple implementation of Openzeppelin ERC20 smart contract
